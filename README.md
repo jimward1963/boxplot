@@ -7,5 +7,8 @@ Boxplot is a function of the matplotlib package in [Python](https://www.python.o
 
 https://python-graph-gallery.com/boxplot/
 
+Tukey, John W. (1977), Exploratory Data Analysis
 
 Wickham, Hadley (2011), 40 Years of Boxplots http://vita.had.co.nz/papers/boxplots.pdf
+
+
